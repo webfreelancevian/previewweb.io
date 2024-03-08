@@ -72,7 +72,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #2dc997;
+  background: #344b71;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -205,7 +205,7 @@ h6 {
   height: 2px;
   bottom: -6px;
   left: 0;
-  background-color: #2dc997;
+  background-color: #344b71;
   visibility: hidden;
   transform: scaleX(0);
   transition: all 0.3s ease-in-out 0s;
@@ -708,7 +708,7 @@ section {
   text-align: center;
   width: 72px;
   height: 72px;
-  background: #2dc997;
+  background: #344b71;
 }
 
 #services .icon a {
@@ -1038,7 +1038,7 @@ section {
 
 #contact .info i {
   font-size: 32px;
-  color: #2dc997;
+  color: #344b71;
   float: left;
   line-height: 0;
 }
@@ -1098,7 +1098,7 @@ section {
 #contact .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #18d26e;
+  background: #344b71;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1136,7 +1136,7 @@ section {
 }
 
 #contact .php-email-form button[type=submit] {
-  background: #2dc997;
+  background: #344b71;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1144,7 +1144,7 @@ section {
 }
 
 #contact .php-email-form button[type=submit]:hover {
-  background: #51d8ad;
+  background: #64748e;
 }
 
 @keyframes animate-loading {
