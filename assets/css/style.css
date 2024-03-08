@@ -26,6 +26,20 @@
   padding: 20px;
 }
 
+/* Mega Menu */
+.megamenu-li {
+	position: static;
+}
+
+.megamenu {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	right: 0;
+	padding: 15px;
+}
+/* End Mega Menu */
+
 body {
   background: #fff;
   color: #666666;
